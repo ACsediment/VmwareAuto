@@ -1,6 +1,8 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
 # A simple way to take snapshot for VM. You can even authorise this to one of your colleagues.
+# You can create a EXE file for it using:
+#   pyinstaller -F -i YourIcon.ico TakeSnapshot.py
 
 print("\nInitiating Login Sequence ....")
 
