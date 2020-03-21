@@ -11,4 +11,4 @@ Add this to XShell, and enjoy on-click installation of Vmware Tool. :)
 
 Note: it must be an empty line at the end, otherwise you need to hit the Enter yourself.
 
-WmwareTool一键安装脚本（Xshell）
+WmwareTool一键安装脚本（Xshell）。注意结尾的空行必须保留，不然会需要你多按一下回车键~
